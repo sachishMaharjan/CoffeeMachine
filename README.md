@@ -1,2 +1,2 @@
 # CoffeeMachine
-This project is part of #100daysofCode challenge.
+This project was completed on Day 15 of #100daysofCode challenge.
